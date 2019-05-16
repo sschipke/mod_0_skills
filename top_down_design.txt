@@ -1,0 +1,55 @@
+How to become a Turing student
+
+1. Investigate interest in coding and Turing
+	1.1. Research or read articles on what software developers do
+	1.2. Use resources such as "codecademy" to try coding and see if it is enjoyable
+	1.3. Attennd a "Try Coding" weekend at Turing
+		1.3.1. Use current students as a resource for information
+			1.3.1.1 Inquire about the culture of the school
+			1.3.1.2 Inquire about the pace of the program and the workload
+			1.3.1.3 Investigate what most students do for housing and transportation
+		1.3.2. Use almumni as a resource
+			1.3.2.1 Ask if they are glad they did the program
+			1.3.2.2 Investigate what challenges they faced and how the made it through Turing
+			1.3.2.3 Ask for top advice for finding a job
+	1.4 Is a career in coding right for you?
+		1.4.1. Consider deeply
+2. Apply to Turing
+	2.1. Decide which program (front end or back end)
+	2.2. Practice logic games
+		2.2.1. Use online resources such as free LSAT practice tests
+			2.2.1.1. Be able to complete two puzzles within 30 mins
+		2.2.2 Research which skills logic games test for
+			2.2.2.1 Ponder why a developer may need such skills
+	2.3 Submit application online
+		2.3.1. Submit resume/work history
+		2.3.2. Pass logic test
+	2.4 Be accepted
+		2.4.1. Think of your "story" to present at interview
+			2.4.1.1. Why software development?
+			2.4.1.2. Why Turing?
+			2.4.1.3. What will you add?
+		2.4.2. Practice a few more logic games
+		2.4.3. Interview in person or online
+			2.4.3.1. Receive notification of acceptence
+				2.4.3.1.1. Enroll and choose cohort
+					2.4.3.1.1.1. Pay $1200 deposit
+					2.4.3.1.1.2. Complete necessary surveys
+					2.4.3.1.1.3. Arrange/Schedule laptop pick up
+					2.4.3.1.1.4. Complete enrollment agreement
+					2.4.3.1.1.5. Complete Mod 0 successfully
+					2.4.3.1.1.5. Pay tuition balance 30 days before start date
+
+3. Prepare for classes
+	3.1. Study the language you will be using heavily
+		3.1.1. Practice on websites like "codecademy"
+		3.1.2. Order necessary books
+	3.2. Scope out places to live
+		3.2.1. Use sites like "Zillow" to get an idea of options/budget
+		3.2.2. Ask students about their living situations
+	3.3. Practice coding every day
+		3.3.1. Practice skills from Mod 0
+	3.4. Look over curriculum before arriving
+	3.5. Decide on mode of transportation
+	3.5. Move to Denver to begin class
+
