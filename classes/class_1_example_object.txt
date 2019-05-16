@@ -1,0 +1,16 @@
+Object: 5th_Grade
+
+Attributes:
+4
+["Bob McEleny", "Steven Sondheim", "Shirley Temple", "Suzie Anthony"]
+"Mr. Boolean"
+5
+1:15
+2:00
+400
+
+Methods:
+"Mr. Boolean" change to "Mr. Integer"
+["Bob McEleny", "Steven Sondheim", "Shirley Temple", "Suzie Anthony", "Tom Beringer"] 5
+400 + 100 = 500
+2:00 - 1:35 = 25
