@@ -1,0 +1,14 @@
+Class: Teacher
+
+Attributes:
+Name (string)
+Birth_year (datetime)
+Grade (integer)
+Hire_year (datetime)
+Class_size (integer)
+
+Methods:
+Find_age (Current_year - Birth_year) 
+New_student (increase Class_size)
+How_long_employed (Current_year - Hire-year)
+Promote (increase Grade)
