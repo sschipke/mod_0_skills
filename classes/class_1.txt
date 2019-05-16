@@ -1,0 +1,17 @@
+Class: Class
+
+Attributes:
+Number_of_students (integer)
+List_of_students (array)
+Name_of_teacher (string)
+Grade_level(integer)
+Starting_time (datetime)
+Size (integer)
+
+Methods:
+Fire_teacher(change the Name_of_teacher)
+Add_new_student (insert new student into List_of_students array and + 1 to Number_of_students)
+Remodel (change Size)
+Time_left (Current_time - Starting_time)
+
+
