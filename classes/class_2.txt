@@ -6,6 +6,7 @@ Birth_year (datetime)
 Grade (integer)
 Hire_year (datetime)
 Class_size (integer)
+First_year (boolean)
 
 Methods:
 Find_age (Current_year - Birth_year) 
